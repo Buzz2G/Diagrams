@@ -1,41 +1,127 @@
-<mxfile host="app.diagrams.net" modified="2024-04-21T07:01:56.241Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Q4lqHSwVpCz5u8L3I_mU" version="24.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-21T07:21:53.123Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="o8HmJb5zONFq2SZG_EBW" version="24.2.7" type="github">
   <diagram name="第 1 页" id="Os15_rzrfiJa7zNT8iud">
-    <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="1959" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="g8w-QVMXd1Fuwn8LfcI3-1" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #ce9178;&quot;&gt;图书管理系统&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="g8w-QVMXd1Fuwn8LfcI3-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="g8w-QVMXd1Fuwn8LfcI3-1" target="g8w-QVMXd1Fuwn8LfcI3-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g8w-QVMXd1Fuwn8LfcI3-2" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #ce9178;&quot;&gt;图书管理系统&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="190" width="120" height="60" as="geometry" />
+        <mxCell id="g8w-QVMXd1Fuwn8LfcI3-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="g8w-QVMXd1Fuwn8LfcI3-1" target="g8w-QVMXd1Fuwn8LfcI3-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g8w-QVMXd1Fuwn8LfcI3-3" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #ce9178;&quot;&gt;图书管理系统&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="g8w-QVMXd1Fuwn8LfcI3-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="g8w-QVMXd1Fuwn8LfcI3-1" target="g8w-QVMXd1Fuwn8LfcI3-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g8w-QVMXd1Fuwn8LfcI3-4" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #ce9178;&quot;&gt;图书管理系统&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="210" width="120" height="60" as="geometry" />
+        <mxCell id="g8w-QVMXd1Fuwn8LfcI3-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="g8w-QVMXd1Fuwn8LfcI3-1" target="g8w-QVMXd1Fuwn8LfcI3-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g8w-QVMXd1Fuwn8LfcI3-5" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #ce9178;&quot;&gt;系统设置和维护&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="620" width="120" height="60" as="geometry" />
+        <mxCell id="g8w-QVMXd1Fuwn8LfcI3-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="g8w-QVMXd1Fuwn8LfcI3-1" target="g8w-QVMXd1Fuwn8LfcI3-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g8w-QVMXd1Fuwn8LfcI3-6" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #ce9178;&quot;&gt;统计报表&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="707" y="525" width="120" height="60" as="geometry" />
+        <mxCell id="g8w-QVMXd1Fuwn8LfcI3-1" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;图书管理系统&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="481" y="-50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="g8w-QVMXd1Fuwn8LfcI3-7" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #ce9178;&quot;&gt;编目管理&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="520" width="120" height="60" as="geometry" />
+        <mxCell id="g8w-QVMXd1Fuwn8LfcI3-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g8w-QVMXd1Fuwn8LfcI3-5" target="g8w-QVMXd1Fuwn8LfcI3-38">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g8w-QVMXd1Fuwn8LfcI3-8" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #ce9178;&quot;&gt;库存管理&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="525" width="120" height="60" as="geometry" />
+        <mxCell id="g8w-QVMXd1Fuwn8LfcI3-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="g8w-QVMXd1Fuwn8LfcI3-5" target="g8w-QVMXd1Fuwn8LfcI3-39">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g8w-QVMXd1Fuwn8LfcI3-9" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #ce9178;&quot;&gt;借阅管理&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="450" width="120" height="60" as="geometry" />
+        <mxCell id="g8w-QVMXd1Fuwn8LfcI3-5" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;&quot;&gt;系统设置和维护&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#1A1A1A;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="980" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="g8w-QVMXd1Fuwn8LfcI3-10" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #ce9178;&quot;&gt;图书检索&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="450" width="120" height="60" as="geometry" />
+        <mxCell id="g8w-QVMXd1Fuwn8LfcI3-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g8w-QVMXd1Fuwn8LfcI3-8" target="g8w-QVMXd1Fuwn8LfcI3-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g8w-QVMXd1Fuwn8LfcI3-11" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #ce9178;&quot;&gt;用户管理&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="450" width="120" height="60" as="geometry" />
+        <mxCell id="g8w-QVMXd1Fuwn8LfcI3-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="g8w-QVMXd1Fuwn8LfcI3-8" target="g8w-QVMXd1Fuwn8LfcI3-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g8w-QVMXd1Fuwn8LfcI3-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g8w-QVMXd1Fuwn8LfcI3-8" target="g8w-QVMXd1Fuwn8LfcI3-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g8w-QVMXd1Fuwn8LfcI3-8" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;&quot;&gt;库存管理&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#1A1A1A;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="730" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g8w-QVMXd1Fuwn8LfcI3-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g8w-QVMXd1Fuwn8LfcI3-9" target="g8w-QVMXd1Fuwn8LfcI3-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g8w-QVMXd1Fuwn8LfcI3-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g8w-QVMXd1Fuwn8LfcI3-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="497" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g8w-QVMXd1Fuwn8LfcI3-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="g8w-QVMXd1Fuwn8LfcI3-9" target="g8w-QVMXd1Fuwn8LfcI3-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g8w-QVMXd1Fuwn8LfcI3-9" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;&quot;&gt;借阅管理&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#1A1A1A;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="481" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g8w-QVMXd1Fuwn8LfcI3-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g8w-QVMXd1Fuwn8LfcI3-10" target="g8w-QVMXd1Fuwn8LfcI3-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g8w-QVMXd1Fuwn8LfcI3-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g8w-QVMXd1Fuwn8LfcI3-10" target="g8w-QVMXd1Fuwn8LfcI3-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g8w-QVMXd1Fuwn8LfcI3-10" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;&quot;&gt;图书检索&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#1A1A1A;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="321" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g8w-QVMXd1Fuwn8LfcI3-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g8w-QVMXd1Fuwn8LfcI3-11" target="g8w-QVMXd1Fuwn8LfcI3-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g8w-QVMXd1Fuwn8LfcI3-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="g8w-QVMXd1Fuwn8LfcI3-11" target="g8w-QVMXd1Fuwn8LfcI3-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g8w-QVMXd1Fuwn8LfcI3-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g8w-QVMXd1Fuwn8LfcI3-11" target="g8w-QVMXd1Fuwn8LfcI3-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g8w-QVMXd1Fuwn8LfcI3-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="g8w-QVMXd1Fuwn8LfcI3-11" target="g8w-QVMXd1Fuwn8LfcI3-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g8w-QVMXd1Fuwn8LfcI3-11" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;&quot;&gt;用户管理&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#1A1A1A;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g8w-QVMXd1Fuwn8LfcI3-17" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;font&gt;借&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;font&gt;书&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontColor=#1A1A1A;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="467" y="220" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="g8w-QVMXd1Fuwn8LfcI3-19" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;font&gt;作&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;font&gt;者&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;font&gt;搜&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;font&gt;索&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontColor=#1A1A1A;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="390" y="220" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="g8w-QVMXd1Fuwn8LfcI3-20" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;font&gt;书&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;font&gt;名&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;font&gt;搜&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;font&gt;索&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontColor=#1A1A1A;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="310" y="220" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="g8w-QVMXd1Fuwn8LfcI3-21" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;font&gt;权&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;font&gt;限&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;font&gt;管&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;font&gt;理&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontColor=#1A1A1A;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="230" y="220" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="g8w-QVMXd1Fuwn8LfcI3-22" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;font&gt;信&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;font&gt;息&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;font&gt;修&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;font&gt;改&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontColor=#1A1A1A;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="150" y="220" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="g8w-QVMXd1Fuwn8LfcI3-23" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;font&gt;登&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;font&gt;录&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontColor=#1A1A1A;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="70" y="220" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="g8w-QVMXd1Fuwn8LfcI3-24" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;&quot;&gt;注&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;&quot;&gt;册&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;labelBackgroundColor=default;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry y="220" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="g8w-QVMXd1Fuwn8LfcI3-28" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;库&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;存&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;调&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;整&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontColor=#1A1A1A;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="890" y="220" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="g8w-QVMXd1Fuwn8LfcI3-29" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;图&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;书&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;入&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;库&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontColor=#1A1A1A;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="720" y="220" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="g8w-QVMXd1Fuwn8LfcI3-30" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;借&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;阅&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;记&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;录&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;管&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;理&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontColor=#1A1A1A;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="220" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="g8w-QVMXd1Fuwn8LfcI3-37" value="&#xa;&lt;font style=&quot;forced-color-adjust: none; color: rgb(26, 26, 26); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 14px;&quot;&gt;还&lt;/font&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(26, 26, 26); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 14px;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; font-size: 14px;&quot;&gt;书&lt;/font&gt;&lt;/div&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontColor=#1A1A1A;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="550" y="220" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="g8w-QVMXd1Fuwn8LfcI3-38" value="参&lt;div&gt;数&lt;/div&gt;&lt;div&gt;设&lt;/div&gt;&lt;div&gt;置&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontColor=#1A1A1A;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="970" y="220" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="g8w-QVMXd1Fuwn8LfcI3-39" value="权&lt;div&gt;限&lt;/div&gt;&lt;div&gt;设&lt;/div&gt;&lt;div&gt;置&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontColor=#1A1A1A;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="220" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="g8w-QVMXd1Fuwn8LfcI3-65" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;图&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;书&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;出&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;库&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontColor=#1A1A1A;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="800" y="220" width="60" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
