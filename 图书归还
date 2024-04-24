@@ -1,0 +1,34 @@
+@startuml
+
+class BookReturnProcess {
+  + scanBookBarcode(bookId: String): boolean
+  + checkBookCondition(bookId: String): boolean
+  + updateBookStatus(bookId: String, condition: String): boolean
+  + updateBorrowerAccount(userId: String): boolean
+  + generateFine(bookId: String, returnDate: Date): boolean
+}
+
+class FineManagementModule {
+  + calculateFine(bookId: String, returnDate: Date): double
+  + generateFineReceipt(userId: String, bookId: String, fineAmount: double): boolean
+}
+
+class User {
+  - userId: String
+  - password: String
+  + verifyCredentials(userId: String, password: String): boolean
+}
+
+class Book {
+  - bookId: String
+  - title: String
+  - author: String
+  - ISBN: String
+  - publicationYear: int
+}
+
+BookReturnProcess --> Book
+BookReturnProcess --> User
+BookReturnProcess --> FineManagementModule
+
+@enduml
