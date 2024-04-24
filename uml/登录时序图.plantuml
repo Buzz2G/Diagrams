@@ -1,0 +1,33 @@
+@startuml
+actor User as "用户"
+participant "Login Interface" as Login
+participant "Server" as Server
+database "Database" as DB
+
+User -> Login : 输入用户名和密码
+Login -> Server : 发送登录信息
+activate Server
+
+Server -> DB : 验证用户信息
+activate DB
+DB --> Server : 返回验证结果
+deactivate DB
+
+alt 验证成功
+    Server -> Server : 识别用户类型
+    alt 是图书管理员
+        Server --> Login : 导向图书管理员主界面
+    else 是系统管理员
+        Server --> Login : 导向系统管理员主界面
+    else 是企业用户
+        Server --> Login : 导向企业用户主界面
+    else 是师生用户
+        Server --> Login : 导向师生用户主界面
+    end
+else 验证失败
+    Server --> Login : 返回错误信息
+end
+
+deactivate Server
+Login -> User : 显示相应界面或错误信息
+@enduml
