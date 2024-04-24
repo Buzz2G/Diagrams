@@ -1,0 +1,34 @@
+@startuml
+
+class 图书借阅流程 {
+  + 扫描用户卡(userId: String): boolean
+  + 扫描图书条形码(bookId: String): boolean
+  + 检查图书可用性(bookId: String): boolean
+  + 更新图书状态(bookId: String, status: String): boolean
+  + 更新借阅者账户(userId: String, bookId: String): boolean
+}
+
+class 罚金管理模块 {
+  + 计算罚金(bookId: String, returnDate: Date): double
+  + 生成罚金收据(userId: String, bookId: String, fineAmount: double): boolean
+}
+
+class 用户 {
+  - 用户ID: String
+  - 密码: String
+  + 验证凭据(userId: String, password: String): boolean
+}
+
+class 图书 {
+  - 图书ID: String
+  - 书名: String
+  - 作者: String
+  - ISBN: String
+  - 出版年份: int
+}
+
+图书借阅流程 --> 用户
+图书借阅流程 --> 图书
+罚金管理模块 --> 图书
+
+@enduml
