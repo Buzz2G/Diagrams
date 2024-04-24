@@ -1,0 +1,72 @@
+@startuml
+skinparam packageStyle rectangle
+skinparam defaultFontName Arial
+
+' 设置布局方向为从上到下
+left to right direction
+
+' 定义顶层包
+package "Book Management System" {
+
+    ' 定义前端显示层
+    package "Front-end Display Layer" {
+        [Static Files] - [Templates]
+        note right of [Templates] : HTML, CSS, and JavaScript files
+    }
+
+    ' 定义后端逻辑处理层
+    package "Back-end Logic Processing Layer" {
+
+        ' 系统登录模块设计
+        package "System Login Module Design" {
+            [Authentication]
+            note right : Handles user login logic and security checks
+        }
+
+        ' 用户管理模块设计
+        package "User Management Module Design" {
+            [User Model]
+            [User Controller]
+            [User Views]
+            note right : Manages user registration, information modification, and permissions
+        }
+
+        ' 图书信息管理模块设计
+        package "Book Information Management Module Design" {
+            [Book Model]
+            [Book Controller]
+            [Book Views]
+            note right : Manages book entries, searches, modifications, and deletions
+        }
+
+        ' 借阅管理模块设计
+        package "Borrowing Management Module Design" {
+            [Loan Model]
+            [Loan Controller]
+            [Loan Views]
+            note right : Handles the processes of book lending and returns
+        }
+
+        ' 系统统计模块设计
+        package "System Statistics Module Design" {
+            [Stats Model]
+            [Stats Controller]
+            [Stats Views]
+            note right : Provides statistical reporting and data analysis for management
+        }
+    }
+
+    ' 数据访问层
+    package "Data Access Layer" {
+        [Django ORM]
+        note right : Manages database operations
+    }
+
+    ' 配置和工具包
+    package "Config and Utilities" {
+        [Settings]
+        [Utilities]
+        note right : Includes settings.py and utility functions
+    }
+}
+@enduml
