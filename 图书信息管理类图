@@ -1,0 +1,25 @@
+@startuml
+class 管理员 {
+  - username: String
+  - password: String
+  + login(): void
+  + enterBookInformation(bookInfo: Book): void
+}
+
+class 图书 {
+  - title: String
+  - author: String
+  - publisher: String
+  - publicationDate: Date
+}
+
+class  图书信息管理模块 {
+  + enterBookInformation(bookInfo: Book): void
+  + validateData(bookInfo: Book): boolean
+  + saveToDatabase(bookInfo: Book): void
+}
+
+管理员 --> 图书信息管理模块
+管理员 --> 图书
+图书信息管理模块 --> 图书
+@enduml
