@@ -1,0 +1,39 @@
+@startuml
+class 登录界面 {
+  + display(): void
+  + getUserInput(): LoginInput
+}
+
+class 登录输入 {
+  - username: String
+  - password: String
+  + getUsername(): String
+  + getPassword(): String
+}
+
+class 用户管理 {
+  - users: List<User>
+  + validateUser(input: LoginInput): boolean
+}
+
+class 用户 {
+  - userId: String
+  - username: String
+  - password: String
+  - email: String
+  - phoneNumber: String
+  + getUserId(): String
+  + getUsername(): String
+  + getPassword(): String
+  + getEmail(): String
+  + getPhoneNumber(): String
+  + setUsername(username: String): void
+  + setPassword(password: String): void
+  + setEmail(email: String): void
+  + setPhoneNumber(phoneNumber: String): void
+}
+
+登录界面 --> 登录输入
+登录输入 --> 用户管理
+用户管理 --> 用户
+@enduml
